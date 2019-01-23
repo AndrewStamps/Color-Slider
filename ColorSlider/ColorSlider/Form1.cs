@@ -11,6 +11,7 @@ using System.Windows.Forms;
 namespace ColorSlider {
     public partial class Form1 : Form {
 
+        //CONSTRUCTOR
         public Form1()  {
             InitializeComponent();
         }//end constructor
